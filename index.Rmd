@@ -7,3 +7,7 @@ output: distill::distill_article
 Hi, I’m Adam, a Politics and International Relations student at the University of Essex.
 
 This site presents a short GV300 portfolio project. The Showcase tab contains an A/B test analysis examining whether issue-focused political messaging increases supporter signups.
+
+**Navigation:**
+- [Showcase](showcase.html)
+- [About Me](postcard.html)
